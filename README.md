@@ -2,9 +2,7 @@
 
 This repository contains a small finite-difference and Newton-solver example for the nonlinear boundary value problem
 
-\[
--u''(x) + u(x)^3 = 1, \qquad x \in [0,1], \qquad u(0)=u(1)=0.
-\]
+`-u''(x) + u(x)^3 = 1` for `x in [0,1]`, with boundary conditions `u(0) = u(1) = 0`.
 
 The problem is discretized with second-order centered finite differences using `N = 200` interior grid points, and the resulting nonlinear algebraic system is solved with Newton's method equipped with an Armijo backtracking line search.
 
