@@ -1,5 +1,7 @@
 # NonlinearBVP
 
+(This README.md file was also written by an AI Coding Agent, except for this comment. Despite one attempt at fixing it, the white spacing around the figure couldn't be resolved.) 
+
 This repository contains a small finite-difference and Newton-solver example for the nonlinear boundary value problem
 
 `-u''(x) + u(x)^3 = 1` for `x in [0,1]`, with boundary conditions `u(0) = u(1) = 0`.
