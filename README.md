@@ -1,4 +1,4 @@
-# NonlinearBVP
+# AI Coding Agent to Solve Nonlinear BVP for Essay
 
 (This README.md file was also written by an AI Coding Agent, except for this comment. Despite one attempt at fixing it, the white spacing around the figure couldn't be resolved.) 
 
