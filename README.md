@@ -8,7 +8,7 @@ This repository contains a small finite-difference and Newton-solver example for
 
 The problem is discretized with second-order centered finite differences using `N = 200` interior grid points, and the resulting nonlinear algebraic system is solved with Newton's method equipped with an Armijo backtracking line search.
 
-This repository accompanies the essay *"The Future of Computational Mathematics with AI Coding Agents"* by Alex Townsend, submitted to *AMS Notices*.
+This repository accompanies the essay *"The Future of Computing in Mathematics with AI Coding Agents"* by Alex Townsend, submitted to *AMS Notices*.
 
 ## Contents
 
